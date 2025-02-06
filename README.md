@@ -1,38 +1,38 @@
 ## Overview
 
-**Project Title**:
+**Jumper Man**:
 
-**Project Description**:
+**A game where the player tries to go as high as possible by jumping on platforms**:
 
-**Project Goals**:
+**Create player character, and foundations for the game such as a platform, and a background with collisions**:
 
 ## Instructions for Build and Use
 
 Steps to build and/or run the software:
 
-1. First step here
-2.
+1. download arcade using pip if you don't have that ready
+2. once downloaded run program.
 3.
 
 Instructions for using the software:
 
-1. First step here
-2.
+1. use arrow keys to move
+2. go from one platform to the next
 3.
 
 ## Development Environment 
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
-* First thing here
-*
+* python
+* arcade library
 *
 
 ## Useful Websites to Learn More
 
 I found these websites useful in developing this software:
 
-* [Website Title](Link)
+* [arcade tutorial](https://realpython.com/arcade-python-game-framework/)
 *
 *
 
@@ -40,6 +40,6 @@ I found these websites useful in developing this software:
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] First thing here
-* [ ]
-* [ ]
+* [ ] Create gravity for the character
+* [ ] have the camera follow the character going up
+* [ ] create randomly placed platforms as character goes up
